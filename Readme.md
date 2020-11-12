@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр](https://up.htmlacademy.ru/adaptive/21/user/1408611).
-* Наставник: [Сергей Шрамко](https://htmlacademy.ru/profile/id852139).
+* Наставник: [Сергей 🚀 Шрамко](https://htmlacademy.ru/profile/id852139).
 
 ---
 
