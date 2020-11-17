@@ -101,21 +101,39 @@
             </textarea>
           </fieldset>
 
+          <fieldset class="form__fieldset">
+            <legend class="form__extra-title">Дополнительно</legend>
 
+            <ul class="form__list">
+              <li class="form__item">
+                <input class="form__input programme__input--checkbox" type="checkbox" name="sweetener"
+                  id="sweetener" checked>
+                <label class="form__label" for="sweetener">Cахарозаменитель</label>
+              </li>
+              <li class="form__item">
+                <input class="form__input form__input--checkbox" type="checkbox" name="water" id="water">
+                <label class="form__label" for="water">Питьевая вода</label>
+              </li>
+              <li class="form__item">
+                <input class="form__input form__input--checkbox" type="checkbox" name="milk" id="milk">
+                <label class="form__label" for="milk">Молоко</label>
+              </li>
+              <li class="form__item">
+                <input class="form__input form__input--checkbox" type="checkbox" name="vitamins"
+                  id="vitamins">
+                <label class="form__label" for="vitamins">Витамины</label>
+              </li>
+            </ul>
+          </fieldset>
 
-
-
-
-
+          <button class="form__button" type="submit">
+            Отправить заявку
+          </button>
+          <small class="form__required-field">
+            * — Обязательные поля
+          </small>
         </form>
       </section>
     </main>
-
-
-
-
-
-
-
   </body>
 </html>
